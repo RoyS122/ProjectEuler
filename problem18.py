@@ -14,6 +14,7 @@ class Pyramid():
             val2 += self.right.GetMaximumPathSum()
            
         return max(val1, val2)
+    
 
 
 def string_to_values_list(input_string):
@@ -56,4 +57,4 @@ str_values: str = """75
 values: list[int]= string_to_values_list(str_values)
 
 root: Pyramid = build_pyramid(values)
-print(root.GetMaximumPathSum())  # Output the maximum path sum
+print(root.GetMaximumPathSum(), len(root))  # Output the maximum path sum
