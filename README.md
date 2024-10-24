@@ -25,4 +25,5 @@
 - [Problem19: Counting Sundays](python/problem19.py)
 - [Problem20: Factorial Digit Sum](python/problem20.py)
 ### Julia
-- [Problem1: Amicable Numbers](julia/problem21.jl)
+- [Problem21: Amicable Numbers](julia/problem21.jl)
+- [Problem22: Names Scores](julia/problem22.jl)
