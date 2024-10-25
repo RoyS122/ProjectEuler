@@ -1,4 +1,4 @@
-function getFactors(nbr) 
+function getFactors(nbr) # Get a list of all factors of a number
     divisors = []
     # println("test")
     for n in 1:nbr/2 + 1 
@@ -10,7 +10,7 @@ function getFactors(nbr)
     return divisors
 end
 
-function isAbundant(nbr) 
+function isAbundant(nbr) # Check if a number is abundant
     factors = getFactors(nbr)
     if sum(factors) > nbr 
         return true
@@ -19,7 +19,7 @@ function isAbundant(nbr)
     end
 end
 
-function nonAbundantSum() 
+function nonAbundantSum() # Calcul the sum of all the non abundants numbers
     tot = 0
     max_num = 28123
     abundants = []
