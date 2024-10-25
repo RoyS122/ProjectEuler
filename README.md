@@ -27,3 +27,4 @@
 ### Julia
 - [Problem21: Amicable Numbers](julia/problem21.jl)
 - [Problem22: Names Scores](julia/problem22.jl)
+- [Problem23: Non-Abundants Sums](julia/problem23.jl)
