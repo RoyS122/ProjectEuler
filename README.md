@@ -35,3 +35,4 @@
 - [Problem24: Lexicographic Permutations](julia/problem24.jl)
 - [Problem24: Lexicographic Permutations](julia/problem24.jl)
 - [Problem25: 1000-digit Fibonacci Number](julia/problem25.jl)
+- [Problem26: Reciprocal Cycles](julia/problem26.jl)
