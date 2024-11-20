@@ -4,7 +4,7 @@ REGEX="^(feat|fix|chore|add|update|docs|test|refactor): .{10,}$"
 MESSAGE=$(cat "$1")
 
 if ! [[ $MESSAGE =~ $REGEX ]]; then
-    echo "Error: Commit message must match the format '[TYPE] Description'."
+    echo "Error: Commit message must match the format 'TYPE: Description'."
     echo "TYPE must be one of: feat, fix, chore, docs, test, refactor."
     echo "Description must be at least 10 characters long."
     exit 1
