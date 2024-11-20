@@ -36,3 +36,13 @@
 - [Problem24: Lexicographic Permutations](julia/problem24.jl)
 - [Problem25: 1000-digit Fibonacci Number](julia/problem25.jl)
 - [Problem26: Reciprocal Cycles](julia/problem26.jl)
+
+## Note about the project
+
+The hooks to ensure the commit respect the format: [commit-msg](.githooks/commit-msg)
+
+### How to setup it after cloning
+
+``` shell
+git config core.hooksPath .githooks
+```
