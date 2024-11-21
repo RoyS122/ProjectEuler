@@ -2,6 +2,10 @@
 
 [The project euler](https://projecteuler.net/) is a list of problems of maths and algorythmic.
 
+This repos is about my training in many language to improve my masterize of programation logic and language adaptation.
+
+I will switch of language every 20 problems. 
+
 ## List of the problem i already solved
 
 ### Python
@@ -36,6 +40,7 @@
 - [Problem24: Lexicographic Permutations](julia/problem24.jl)
 - [Problem25: 1000-digit Fibonacci Number](julia/problem25.jl)
 - [Problem26: Reciprocal Cycles](julia/problem26.jl)
+- [Problem27: Quadratic Primes](julia/problem27.jl)
 
 ## Note about the project
 
