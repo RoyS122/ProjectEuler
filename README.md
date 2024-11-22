@@ -42,6 +42,7 @@ I will switch of language every 20 problems.
 - [Problem26: Reciprocal Cycles](julia/problem26.jl)
 - [Problem27: Quadratic Primes](julia/problem27.jl)
 - [Problem28: Number Spiral Diagonals](julia/problem28.jl)
+- [Problem29: Distinct Powers](julia/problem29.jl)
 
 ## Note about the project
 
