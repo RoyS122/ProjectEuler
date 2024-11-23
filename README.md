@@ -44,6 +44,7 @@ I will switch of language every 20 problems.
 - [Problem28: Number Spiral Diagonals](julia/problem28.jl)
 - [Problem29: Distinct Powers](julia/problem29.jl)
 - [Problem30: Digit Fifth Powers](julia/problem30.jl)
+- [Problem31: Coins Sum](julia/problem31.jl)
 
 ## Note about the project
 
