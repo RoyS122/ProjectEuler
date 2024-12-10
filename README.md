@@ -46,10 +46,19 @@ I will switch of language every 20 problems.
 - [Problem30: Digit Fifth Powers](julia/problem30.jl)
 - [Problem31: Coins Sum](julia/problem31.jl)
 - [Problem32: Pandigital Products](julia/problem32.jl)
+- [Problem33: Digit Cancelling Fractions](julia/problem33.jl)
 
 ## Note about the project
 
 The hooks to ensure the commit respect the format: [commit-msg](.githooks/commit-msg)
+
+Quick access script usage(python.bat or julia.bat):
+
+``` shell
+python.bat problem15.py
+julia.bat problem32.jl
+...
+```
 
 ### How to setup it after cloning
 
