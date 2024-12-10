@@ -45,6 +45,7 @@ I will switch of language every 20 problems.
 - [Problem29: Distinct Powers](julia/problem29.jl)
 - [Problem30: Digit Fifth Powers](julia/problem30.jl)
 - [Problem31: Coins Sum](julia/problem31.jl)
+- [Problem32: Pandigital Products](julia/problem32.jl)
 
 ## Note about the project
 
