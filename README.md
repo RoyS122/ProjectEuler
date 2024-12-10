@@ -47,6 +47,7 @@ I will switch of language every 20 problems.
 - [Problem31: Coins Sum](julia/problem31.jl)
 - [Problem32: Pandigital Products](julia/problem32.jl)
 - [Problem33: Digit Cancelling Fractions](julia/problem33.jl)
+- [Problem34: Digit Factorials](julia/problem34.jl)
 
 ## Note about the project
 
