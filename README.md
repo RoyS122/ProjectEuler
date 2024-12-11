@@ -48,6 +48,7 @@ I will switch of language every 20 problems.
 - [Problem32: Pandigital Products](julia/problem32.jl)
 - [Problem33: Digit Cancelling Fractions](julia/problem33.jl)
 - [Problem34: Digit Factorials](julia/problem34.jl)
+- [Problem35: Circular Prime](julia/problem35.jl)
 
 ## Note about the project
 
