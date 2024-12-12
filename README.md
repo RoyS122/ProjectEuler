@@ -50,6 +50,7 @@ I will switch of language every 20 problems.
 - [Problem34: Digit Factorials](julia/problem34.jl)
 - [Problem35: Circular Prime](julia/problem35.jl)
 - [Problem36: Double-base Palindromes](julia/problem36.jl)
+- [Problem37: Truncatable Primes](julia/problem37.jl)
 
 ## Note about the project
 
