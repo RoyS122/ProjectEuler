@@ -37,7 +37,6 @@ I will switch of language every 20 problems.
 - [Problem22: Names Scores](julia/problem22.jl)
 - [Problem23: Non-Abundants Sums](julia/problem23.jl)
 - [Problem24: Lexicographic Permutations](julia/problem24.jl)
-- [Problem24: Lexicographic Permutations](julia/problem24.jl)
 - [Problem25: 1000-digit Fibonacci Number](julia/problem25.jl)
 - [Problem26: Reciprocal Cycles](julia/problem26.jl)
 - [Problem27: Quadratic Primes](julia/problem27.jl)
