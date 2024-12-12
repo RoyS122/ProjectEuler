@@ -3,7 +3,7 @@ function isPalindromic(number::Vector{UInt8})::Bool # check recursively if the d
     if l_number <= 1
         return true
     end
-    return number[1] == number[l_number] && isPalindromic(number[2:l_number-1])
+    return number[1] == number[end] && isPalindromic(number[2:end-1])
 end
 
 function getDigits(nbr::BigInt, base::Int)::Vector{UInt8} # Get the digits of a number
