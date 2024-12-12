@@ -49,6 +49,7 @@ I will switch of language every 20 problems.
 - [Problem33: Digit Cancelling Fractions](julia/problem33.jl)
 - [Problem34: Digit Factorials](julia/problem34.jl)
 - [Problem35: Circular Prime](julia/problem35.jl)
+- [Problem36: Double-base Palindromes](julia/problem36.jl)
 
 ## Note about the project
 
