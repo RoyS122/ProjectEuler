@@ -52,6 +52,7 @@ I will switch of language every 20 problems.
 - [Problem37: Truncatable Primes](julia/problem37.jl)
 - [Problem38: Pandigital Multiples](julia/problem38.jl)
 - [Problem39: Integer Right Triangles](julia/problem39.jl)
+- [Problem40: Champernowne's Constant](julia/problem40.jl)
 
 ## Note about the project
 
