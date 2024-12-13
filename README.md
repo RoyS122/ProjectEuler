@@ -50,6 +50,8 @@ I will switch of language every 20 problems.
 - [Problem35: Circular Prime](julia/problem35.jl)
 - [Problem36: Double-base Palindromes](julia/problem36.jl)
 - [Problem37: Truncatable Primes](julia/problem37.jl)
+- [Problem38: Pandigital Multiples](julia/problem38.jl)
+- [Problem39: Integer Right Triangles](julia/problem39.jl)
 
 ## Note about the project
 
