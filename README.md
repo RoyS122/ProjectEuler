@@ -56,7 +56,7 @@ I will switch of language every 20 problems.
 
 ### C
 
--[Problem41: Pandigital Prime](c/problem41/problem41.c)
+- [Problem41: Pandigital Prime](c/problem41/problem41.c)
 
 ## Note about the project
 
