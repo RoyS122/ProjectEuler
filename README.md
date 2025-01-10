@@ -65,9 +65,9 @@ The hooks to ensure the commit respect the format: [commit-msg](.githooks/commit
 Quick access script usage([python](python.bat), [julia](julia.bat), [c](c.bat)) only on windows:
 
 ``` shell
-python.bat problem15.py
-julia.bat problem32.jl
-c.bat problem41
+./python.bat problem15.py
+./julia.bat problem32.jl
+./c.bat problem41
 ```
 
 ### How to setup it after cloning
