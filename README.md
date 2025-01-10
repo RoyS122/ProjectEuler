@@ -54,16 +54,20 @@ I will switch of language every 20 problems.
 - [Problem39: Integer Right Triangles](julia/problem39.jl)
 - [Problem40: Champernowne's Constant](julia/problem40.jl)
 
+### C
+
+-[Problem41: Pandigital Prime](c/problem41/problem41.c)
+
 ## Note about the project
 
 The hooks to ensure the commit respect the format: [commit-msg](.githooks/commit-msg)
 
-Quick access script usage(python.bat or julia.bat):
+Quick access script usage([python](python.bat), [julia](julia.bat), [c](c.bat)) only on windows:
 
 ``` shell
 python.bat problem15.py
 julia.bat problem32.jl
-...
+c.bat problem41
 ```
 
 ### How to setup it after cloning
