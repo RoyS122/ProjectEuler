@@ -57,6 +57,7 @@ I will switch of language every 20 problems.
 ### C
 
 - [Problem41: Pandigital Prime](c/problem41/problem41.c)
+- [Problem42: Coded Triangle Numbers](c/problem42/problem42.c)
 
 ## Note about the project
 
