@@ -58,6 +58,7 @@ I will switch of language every 20 problems.
 
 - [Problem41: Pandigital Prime](c/problem41/problem41.c)
 - [Problem42: Coded Triangle Numbers](c/problem42/problem42.c)
+- [Problem43: Sub-string Divisibility](c/problem42/problem43.c) #Some optimisations problem
 
 ## Note about the project
 
