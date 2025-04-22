@@ -59,7 +59,8 @@ I will switch of language every 20 problems.
 - [Problem41: Pandigital Prime](c/problem41/problem41.c)
 - [Problem42: Coded Triangle Numbers](c/problem42/problem42.c)
 - [Problem43: Sub-string Divisibility](c/problem43/problem43.c) #Some optimisations problem
-
+- [Problem44: Pentagon Numbers](c/problem44/problem44.c)
+ 
 ## Note about the project
 
 The hooks to ensure the commit respect the format: [commit-msg](.githooks/commit-msg)
