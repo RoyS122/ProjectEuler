@@ -60,6 +60,7 @@ I will switch of language every 20 problems.
 - [Problem42: Coded Triangle Numbers](c/problem42/problem42.c)
 - [Problem43: Sub-string Divisibility](c/problem43/problem43.c) #Some optimisations problem
 - [Problem44: Pentagon Numbers](c/problem44/problem44.c)
+- [Problem45: Pentagon Numbers](c/problem45/problem45.c)
  
 ## Note about the project
 
