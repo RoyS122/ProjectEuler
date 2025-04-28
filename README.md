@@ -62,6 +62,7 @@ I will switch of language every 20 problems.
 - [Problem44: Pentagon Numbers](c/problem44/problem44.c)
 - [Problem45: Pentagon Numbers](c/problem45/problem45.c)
 - [Problem46: Goldbach's Other Conjecture](c/problem46/problem46.c)
+- [Problem47: Distinct Primes Factors](c/problem47/problem47.c)
  
 ## Note about the project
 
