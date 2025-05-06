@@ -65,6 +65,7 @@ I will switch of language every 20 problems.
 - [Problem47: Distinct Primes Factors](c/problem47/problem47.c)
 - [Problem48: Self Powers](c/problem48/problem48.c)
 - [Problem49: Prime Permutations](c/problem49/problem49.c)
+- [Problem50: Consecutive Prime Sum](c/problem50/problem50.c)
  
 ## Note about the project
 
