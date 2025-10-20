@@ -68,6 +68,7 @@ I will switch of language every 20 problems.
 - [Problem50: Consecutive Prime Sum](c/problem50/problem50.c)
 - [Problem51: Prime Digit Replacements](c/problem51/problem51.c)
 - [Problem52: Permuted Multiples](c/problem52/problem52.c)
+- [Problem53: Combinatoric Selections](c/problem53/problem53.c)
  
 ## Note about the project
 
