@@ -70,6 +70,7 @@ I will switch of language every 20 problems.
 - [Problem52: Permuted Multiples](c/problem52/problem52.c)
 - [Problem53: Combinatoric Selections](c/problem53/problem53.c)
 - [Problem54: Poker Hands](c/problem54/problem54.c)
+- [Problem55: Lychrel Numbers](c/problem55/problem55.c)
  
 ## Note about the project
 
