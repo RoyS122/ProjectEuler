@@ -71,7 +71,15 @@ I will switch of language every 20 problems.
 - [Problem53: Combinatoric Selections](c/problem53/problem53.c)
 - [Problem54: Poker Hands](c/problem54/problem54.c)
 - [Problem55: Lychrel Numbers](c/problem55/problem55.c)
- 
+
+### NIM
+
+### Odin
+
+### ASM
+
+### Zig
+
 ## Note about the project
 
 The hooks to ensure the commit respect the format: [commit-msg](.githooks/commit-msg)
@@ -89,3 +97,4 @@ Quick access script usage([python](python.bat), [julia](julia.bat), [c](c.bat)) 
 ``` shell
 git config core.hooksPath .githooks
 ```
+
