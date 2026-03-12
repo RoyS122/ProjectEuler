@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h> 
-#include <pthread.h>
 
 #define DIGITSBACTH 1000
 
