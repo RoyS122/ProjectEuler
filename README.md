@@ -71,8 +71,14 @@ I will switch of language every 20 problems.
 - [Problem53: Combinatoric Selections](c/problem53/problem53.c)
 - [Problem54: Poker Hands](c/problem54/problem54.c)
 - [Problem55: Lychrel Numbers](c/problem55/problem55.c)
+- [Problem56: Powerful Digit Sum](c/problem56/problem56.c)
+- [Problem57: Square Root Convergents](c/problem57/problem57.c)
+- [Problem58: Spiral Primes](c/problem58/problem58.c)
+- [Problem59: XOR Decryption](c/problem59/problem59.c)
+- [Problem60: Prime Pair Sets](c/problem60/problem60.c)
 
 ### NIM
+
 
 ### Odin
 
@@ -86,7 +92,7 @@ The hooks to ensure the commit respect the format: [commit-msg](.githooks/commit
 
 Quick access script usage([python](python.bat), [julia](julia.bat), [c](c.bat)) only on windows:
 
-``` shell
+``` powershell
 ./python.bat problem15.py
 ./julia.bat problem32.jl
 ./c.bat problem41
